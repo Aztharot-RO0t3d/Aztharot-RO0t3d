@@ -1,64 +1,40 @@
-<br clear="both">
+<h1 align="center">Hi 👋, I'm Aztharot</h1>
+<h3 align="center">A passionate student of Cybersecurity an Ethical Hacking</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aztharot-RO0t3d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="146" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aztharot-RO0t3d&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="143" alt="languages graph"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aztharot-ro0t3d&label=Profile%20views&color=0e75b6&style=flat" alt="aztharot-ro0t3d" /> </p>
 
-<h1 align="left">¡Hola, soy Aztharot! 👋</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aztharot-ro0t3d" alt="aztharot-ro0t3d" /></a> </p>
 
-<p align="left">¡Bienvenido a mi repositorio de GitHub!</p>
+<p align="left"> <a href="https://twitter.com/aztharot.ru" target="blank"><img src="https://img.shields.io/twitter/follow/aztharot.ru?logo=twitter&style=for-the-badge" alt="aztharot.ru" /></a> </p>
 
-<h2 align="left">Sobre mí</h2>
+- 🔭 I’m currently working on **Cybersecurity and Ethical Hacking Initiative for UNAM**
 
-<p align="left">Soy Leonardo Correa, pero prefiero que me llamen Aztharot en el mundo del desarrollo. A mis 18 años, estoy dando mis primeros pasos en el mundo de la programación y la ciberseguridad con una pasión ardiente por convertirme en uno de los mejores programadores y hackers éticos.</p>
+- 🌱 I’m currently learning **Bash, Python, C, JavaScript, TypeScript, SQL and other technologies.**
 
-<h2 align="left">Especialización</h2>
+- 📝 I regularly write articles on [sp3ctr4l-h4ck3rs-gu1ld.github.io](sp3ctr4l-h4ck3rs-gu1ld.github.io)
 
-<p align="left">Mi enfoque principal es convertirme en un desarrollador Full Stack con un fuerte énfasis en la ciberseguridad. Creo firmemente que la combinación de estas habilidades me permitirá crear soluciones innovadoras y seguras para los desafíos del mundo digital.</p>
+- 💬 Ask me about **Offensive Security and the Cybersecurity and Ethical Hacking Initiative.**
 
-<h2 align="left">Tecnologías Favoritas</h2>
+- 📫 How to reach me **aztharot.ru@proton.me**
 
-<p align="left">Mis herramientas de elección son Python, Bash y Java. Estos lenguajes de programación me ofrecen la flexibilidad y la potencia necesarias para abordar una amplia gama de proyectos, desde scripts simples hasta aplicaciones web complejas.</p>
+- 📄 Know about my experiences [aztharot-ro0t3d.github.io](aztharot-ro0t3d.github.io)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+- ⚡ Fun fact **My friend Dante thinks I'm a Bunny**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aztharot.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aztharot.ru" height="30" width="40" /></a>
+<a href="https://fb.com/aztharot.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aztharot.ru" height="30" width="40" /></a>
+<a href="https://instagram.com/aztharotivanovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aztharotivanovich" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aztharot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aztharot" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aztharot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aztharot" height="30" width="40" /></a>
+</p>
 
-<h2 align="left">Mis Motivaciones</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="left">Mi mayor motivación es llegar a ser uno de los mejores programadores y hackers éticos del mundo. Me impulsa el deseo de explorar los límites de la tecnología de manera ética y responsable, y contribuir al avance de la seguridad informática.</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aztharot-ro0t3d&show_icons=true&locale=en&layout=compact" alt="aztharot-ro0t3d" /></p>
 
-<h2 align="left">Objetivos del Repositorio</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aztharot-ro0t3d&show_icons=true&locale=en" alt="aztharot-ro0t3d" /></p>
 
-<p align="left">En este repositorio, encontrarás una variedad de proyectos en los que estoy trabajando. Mi objetivo es desarrollar utilidades y herramientas que aborden diversas áreas del conocimiento, desde scripts útiles hasta soluciones de ciberseguridad innovadoras. Además, estoy abierto a colaboraciones en proyectos y oportunidades profesionales.</p>
-
-<h2 align="left">Redes Sociales</h2>
-
-<div align="center">
-  <a href="https://www.facebook.com/AztharotRu" target="https://www.facebook.com/AztharotRu">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-correa-5097a2209/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCq3n_YShMgUHGqj0eGaFwdQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/noobiedestroyer27" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-</div>
-<hr><br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZenitShadow/count.svg?"  />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aztharot-ro0t3d&" alt="aztharot-ro0t3d" /></p>
