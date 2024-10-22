@@ -1,6 +1,6 @@
 ![Banner Personalizado](https://your-image-link.com)
 
-# 👋 ¡Hola! Soy **Leonardo Ernesto Correa Hernández**
+# 👋 ¡Hola! Soy **Leonardo Ernesto Correa Hernández** también conocido en el mundo digital como **Aztharot**
 
 Soy un **Analista Junior en Ciberseguridad**, **Hacker Ético** y **Programador Fullstack** apasionado por la tecnología, la programación y la seguridad informática. Actualmente estoy cursando el 5º semestre en el Colegio de Ciencias y Humanidades Plantel Oriente (UNAM) y también soy cofundador de **Frost Bite Technologies**, una empresa con la misión de impulsar a México como potencia tecnológica global.
 
@@ -55,17 +55,17 @@ Aquí están las principales tecnologías y herramientas que utilizo en mis proy
 
 Mis certificaciones destacan mi especialización en ciberseguridad y sistemas operativos:
 
-- **Digital Awareness** – Cisco (Expedición: oct. 2024)
-- **Operating Systems Basics** – Cisco (Expedición: oct. 2024)
 - **Cybersecurity Essentials** – Cisco (Expedición: jun. 2024)
+- **Digital Awareness** – Cisco (Expedición: oct. 2024)
 - **Introduction to Cybersecurity** – Cisco (Expedición: jun. 2023)
+- **Operating Systems Basics** – Cisco (Expedición: oct. 2024)
 
 ---
 
 ## 🎓 **Educación**
 
 ### **Estudiante de 5º semestre | CCH Oriente, UNAM**
-- **Especialidad**: Ciberseguridad, Informática Forense, Hacking Ético
+- **Especialidad**: Ciberseguridad, Informática Forense, Hacking Ético y Programación
 - **Participación en proyectos**: Investigación en SILADIN y Programas Educativos de Ciberseguridad.
 
 ---
@@ -80,8 +80,8 @@ Mis certificaciones destacan mi especialización en ciberseguridad y sistemas op
 
 ## 📊 **Estadísticas de GitHub**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aztharot-RO0t3d&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztharot-RO0t3d&layout=compact&theme=dark)
 
 ---
 
@@ -89,5 +89,5 @@ Mis certificaciones destacan mi especialización en ciberseguridad y sistemas op
 
 ¡Hablemos sobre proyectos, oportunidades o colaboración en equipo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Correo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-ernesto-correa-hernández-5097a2209)
+[![Correo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aztharot.ru@proton.me)
