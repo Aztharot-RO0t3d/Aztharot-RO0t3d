@@ -1,40 +1,93 @@
-<h1 align="center">Hi 👋, I'm Aztharot</h1>
-<h3 align="center">A passionate student of Cybersecurity an Ethical Hacking</h3>
+![Banner Personalizado](https://your-image-link.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aztharot-ro0t3d&label=Profile%20views&color=0e75b6&style=flat" alt="aztharot-ro0t3d" /> </p>
+# 👋 ¡Hola! Soy **Leonardo Ernesto Correa Hernández**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aztharot-ro0t3d" alt="aztharot-ro0t3d" /></a> </p>
+Soy un **Analista Junior en Ciberseguridad**, **Hacker Ético** y **Programador Fullstack** apasionado por la tecnología, la programación y la seguridad informática. Actualmente estoy cursando el 5º semestre en el Colegio de Ciencias y Humanidades Plantel Oriente (UNAM) y también soy cofundador de **Frost Bite Technologies**, una empresa con la misión de impulsar a México como potencia tecnológica global.
 
-<p align="left"> <a href="https://twitter.com/aztharot.ru" target="blank"><img src="https://img.shields.io/twitter/follow/aztharot.ru?logo=twitter&style=for-the-badge" alt="aztharot.ru" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Cybersecurity and Ethical Hacking Initiative for UNAM**
+## 🛠 **Tecnologías & Habilidades**
+Aquí están las principales tecnologías y herramientas que utilizo en mis proyectos de ciberseguridad y desarrollo:
 
-- 🌱 I’m currently learning **Bash, Python, C, JavaScript, TypeScript, SQL and other technologies.**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-0084D1?style=flat-square&logo=cisco&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F1AE1A?style=flat-square&logo=burpsuite&logoColor=black)
 
-- 📝 I regularly write articles on [sp3ctr4l-h4ck3rs-gu1ld.github.io](sp3ctr4l-h4ck3rs-gu1ld.github.io)
+### Habilidades:
+- **Hacking Ético**: Análisis de vulnerabilidades, pruebas de penetración.
+- **Forense Digital**: Análisis de incidentes y recuperación de datos.
+- **Programación Fullstack**: Desarrollo de aplicaciones seguras usando Python, JavaScript, y frameworks web.
+- **IoT & Seguridad**: Implementación y evaluación de dispositivos inteligentes.
 
-- 💬 Ask me about **Offensive Security and the Cybersecurity and Ethical Hacking Initiative.**
+---
 
-- 📫 How to reach me **aztharot.ru@proton.me**
+## 🚀 **Proyectos Relevantes**
 
-- 📄 Know about my experiences [aztharot-ro0t3d.github.io](aztharot-ro0t3d.github.io)
+### [🔐 **Programa de Iniciación a la Investigación - SILADIN (CCH Oriente)**](https://github.com/usuario/siladin)
+> **Descripción**: Participación en un proyecto de investigación en robótica e inteligencia artificial, enfocado en la **exploración de vulnerabilidades en sistemas IoT y servidores**. Apliqué estrategias de ciberseguridad ofensiva y defensiva.
 
-- ⚡ Fun fact **My friend Dante thinks I'm a Bunny**
+> **Habilidades aplicadas**: Hacking Ético, Informática Forense, Seguridad en IoT
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aztharot.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aztharot.ru" height="30" width="40" /></a>
-<a href="https://fb.com/aztharot.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aztharot.ru" height="30" width="40" /></a>
-<a href="https://instagram.com/aztharotivanovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aztharotivanovich" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aztharot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aztharot" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aztharot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aztharot" height="30" width="40" /></a>
-</p>
+### [📚 **Iniciativa para la Enseñanza de Ciberseguridad en la UNAM y México**](https://github.com/usuario/ensenanza-ciberseguridad)
+> **Descripción**: Proyecto educativo que busca equilibrar la enseñanza entre la protección de sistemas y el hacking ofensivo. Diseño de un programa que cubre desde los fundamentos hasta el **hacking ético avanzado**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+> **Habilidades aplicadas**: Offsec, Informática Forense, Redacción de Contenidos
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aztharot-ro0t3d&show_icons=true&locale=en&layout=compact" alt="aztharot-ro0t3d" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aztharot-ro0t3d&show_icons=true&locale=en" alt="aztharot-ro0t3d" /></p>
+## 💼 **Experiencia Profesional**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aztharot-ro0t3d&" alt="aztharot-ro0t3d" /></p>
+### **Analista Junior en Ciberseguridad | Self-employed** (2023 - Actualidad)
+- Realización de auditorías de seguridad en entornos empresariales y pruebas de penetración.
+- Análisis de vulnerabilidades en infraestructuras IoT y redes.
+- Desarrollo de herramientas para automatización de pruebas de seguridad.
+
+### **Co-fundador y CEO de Frost Bite Technologies** (2024 - Actualidad)
+- Lidero un proyecto que tiene como objetivo ofrecer soluciones tecnológicas y educativas avanzadas en ciberseguridad.
+- Desarrollo de plataformas de capacitación y seguridad, con el objetivo de consolidar a México como una potencia tecnológica.
+
+---
+
+## 📜 **Certificaciones**
+
+Mis certificaciones destacan mi especialización en ciberseguridad y sistemas operativos:
+
+- **Digital Awareness** – Cisco (Expedición: oct. 2024)
+- **Operating Systems Basics** – Cisco (Expedición: oct. 2024)
+- **Cybersecurity Essentials** – Cisco (Expedición: jun. 2024)
+- **Introduction to Cybersecurity** – Cisco (Expedición: jun. 2023)
+
+---
+
+## 🎓 **Educación**
+
+### **Estudiante de 5º semestre | CCH Oriente, UNAM**
+- **Especialidad**: Ciberseguridad, Informática Forense, Hacking Ético
+- **Participación en proyectos**: Investigación en SILADIN y Programas Educativos de Ciberseguridad.
+
+---
+
+## 🏆 **Logros y Reconocimientos**
+
+### Participación en Proyectos Relevantes:
+- **Programa de Investigación en SILADIN (CCH Oriente)**: Investigación en ciberseguridad IoT y robótica.
+- **Iniciativa de Ciberseguridad UNAM-México**: Creación de un plan educativo de ciberseguridad para estudiantes de la UNAM y nivel nacional.
+
+---
+
+## 📊 **Estadísticas de GitHub**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
+
+---
+
+## 📫 **Contacto**
+
+¡Hablemos sobre proyectos, oportunidades o colaboración en equipo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Correo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
