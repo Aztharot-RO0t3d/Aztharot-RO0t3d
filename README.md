@@ -1,6 +1,6 @@
-![Banner Personalizado](https://your-image-link.com)
+![Banner](https://backend.intelbras.com/sites/default/files/2021-10/imagem-banner-ciberseguridad.jpg)
 
-# 👋 ¡Hola! Soy **Leonardo Ernesto Correa Hernández** también conocido en el mundo digital como **Aztharot**
+# 👋 ¡Hola! Soy **Leonardo Ernesto Correa Hernández** (Aztharot)
 
 Soy un **Analista Junior en Ciberseguridad**, **Hacker Ético** y **Programador Fullstack** apasionado por la tecnología, la programación y la seguridad informática. Actualmente estoy cursando el 5º semestre en el Colegio de Ciencias y Humanidades Plantel Oriente (UNAM) y también soy cofundador de **Frost Bite Technologies**, una empresa con la misión de impulsar a México como potencia tecnológica global.
 
@@ -16,6 +16,30 @@ Aquí están las principales tecnologías y herramientas que utilizo en mis proy
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-0084D1?style=flat-square&logo=cisco&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F1AE1A?style=flat-square&logo=burpsuite&logoColor=black)
 
+## 🔧 Herramientas de Ciberseguridad
+
+He trabajado con un amplio conjunto de herramientas de análisis de redes, pruebas de penetración y recolección de información, entre las cuales destacan:
+
+- **Nmap**: Exploración de redes y escaneo de puertos.
+- **Wireshark**: Análisis de tráfico de red.
+- **Metasploit**: Marco de explotación y pruebas de penetración.
+- **dnsenum, dnsrecon**: Recolección de información DNS.
+- **Amass**: Recolección de subdominios y reconocimiento.
+- **John the Ripper**: Cracking de contraseñas.
+- **The Harvester**: Recolección de correos, dominios y nombres.
+- **SQLMap**: Pruebas de inyección SQL.
+- **WFuzz, FFUF**: Fuerza bruta de directorios y archivos.
+- **Wifite, Kismet**: Auditoría de redes Wi-Fi.
+- **Autopsy**: Análisis forense digital.
+- **Spiderfoot, Gobuster, Sublist3r, Dirb**: Herramientas de reconocimiento de vulnerabilidades y descubrimiento de directorios ocultos.
+- **Nikto**: Escaneo de vulnerabilidades web.
+- **Enum4linux**: Enumeración SMB.
+- **Tcpdump**: Captura y análisis de paquetes.
+- **Sherlock**: Investigación de cuentas en redes sociales.
+
+---
+
+
 ### Habilidades:
 - **Hacking Ético**: Análisis de vulnerabilidades, pruebas de penetración.
 - **Forense Digital**: Análisis de incidentes y recuperación de datos.
@@ -27,12 +51,12 @@ Aquí están las principales tecnologías y herramientas que utilizo en mis proy
 ## 🚀 **Proyectos Relevantes**
 
 ### [🔐 **Programa de Iniciación a la Investigación - SILADIN (CCH Oriente)**](https://github.com/usuario/siladin)
-> **Descripción**: Participación en un proyecto de investigación en robótica e inteligencia artificial, enfocado en la **exploración de vulnerabilidades en sistemas IoT y servidores**. Apliqué estrategias de ciberseguridad ofensiva y defensiva.
+> **Descripción**: Participación en un proyecto de investigación en robótica e inteligencia artificial, enfocado en la **exploración de vulnerabilidades en sistemas IoT y servidores**. Aplico estrategias de ciberseguridad ofensiva, defensiva y forense.
 
-> **Habilidades aplicadas**: Hacking Ético, Informática Forense, Seguridad en IoT
+> **Habilidades aplicadas**: Hacking Ético, Informática Forense, Seguridad en IoT, Vulnerability Theatment
 
 ### [📚 **Iniciativa para la Enseñanza de Ciberseguridad en la UNAM y México**](https://github.com/usuario/ensenanza-ciberseguridad)
-> **Descripción**: Proyecto educativo que busca equilibrar la enseñanza entre la protección de sistemas y el hacking ofensivo. Diseño de un programa que cubre desde los fundamentos hasta el **hacking ético avanzado**.
+> **Descripción**: Proyecto educativo diseñado y ejecutado de manera individual, con un enfoque integral entre ciberseguridad ofensiva, defensiva y forense digital. Diseño de un programa que cubre desde los fundamentos hasta el **hacking ético avanzado**.
 
 > **Habilidades aplicadas**: Offsec, Informática Forense, Redacción de Contenidos
 
@@ -57,8 +81,12 @@ Mis certificaciones destacan mi especialización en ciberseguridad y sistemas op
 
 - **Cybersecurity Essentials** – Cisco (Expedición: jun. 2024)
 - **Digital Awareness** – Cisco (Expedición: oct. 2024)
+- **Get Connected** – Cisco, UNAM (Expedición: Jun. 2024)
 - **Introduction to Cybersecurity** – Cisco (Expedición: jun. 2023)
+- **Linux Unhatched** – Cisco, Net Dev Group, UNAM (Expedición: 2023 y 2024)
 - **Operating Systems Basics** – Cisco (Expedición: oct. 2024)
+
+  Además, he recibido constancias por mi participación en estos cursos impartidos por la UNAM.
 
 ---
 
@@ -80,8 +108,8 @@ Mis certificaciones destacan mi especialización en ciberseguridad y sistemas op
 
 ## 📊 **Estadísticas de GitHub**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aztharot-RO0t3d&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztharot-RO0t3d&layout=compact&theme=dark)
+![Github Estatus](https://github-readme-stats.vercel.app/api?username=Aztharot-RO0t3d&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztharot-RO0t3d&layout=compact&theme=dark)
 
 ---
 
