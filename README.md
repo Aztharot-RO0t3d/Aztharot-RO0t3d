@@ -1,6 +1,6 @@
 ![Banner](https://backend.intelbras.com/sites/default/files/2021-10/imagem-banner-ciberseguridad.jpg)
 
-# 👋 ¡Hola! Soy **Leonardo Ernesto Correa Hernández** (Aztharot)
+# 👋 ¡Hola! Soy **Leonardo Ernesto Correa Hernández** (Zenit)
 
 Soy un **Analista Junior en Ciberseguridad**, **Hacker Ético** y **Programador Fullstack** apasionado por la tecnología, la programación y la seguridad informática. Actualmente estoy cursando el 5º semestre en el Colegio de Ciencias y Humanidades Plantel Oriente (UNAM) y también soy cofundador de **Frost Bite Technologies**, una empresa con la misión de impulsar a México como potencia tecnológica global.
 
