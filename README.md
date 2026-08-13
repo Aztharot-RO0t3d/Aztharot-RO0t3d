@@ -12,7 +12,6 @@
 `Pentester` · `MalDev Engineer` · `Security Researcher`
 
 [![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/2350469)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-correa-5097a2209)
 [![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.ru@proton.me)
 
 </div>
@@ -92,7 +91,6 @@ PURPOSE  →  Experimental implants Red Team tooling
 
 ```
 ►  Email    →  leonardo.ru@proton.me
-►  LinkedIn →  linkedin.com/in/leonardo-correa-5097a2209
 ►  HTB      →  app.hackthebox.com/public/users/2350469
 
 ```
